@@ -39,6 +39,7 @@ header img {
 
 h2 {
   color: #6F7F7A;
+  font-size: 2em;
 }
 
 #about {
@@ -60,3 +61,4 @@ footer {
   font-size: 75%;
   color: #7F7F7F;
 }
+ 
