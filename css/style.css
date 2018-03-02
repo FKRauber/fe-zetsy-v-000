@@ -25,3 +25,7 @@ h1 {
   font-size: 3em;
   font-family: 'Baskerville', serif;
 }
+
+header {
+  border-bottom: 1px solid #ccc;
+}
