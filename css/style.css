@@ -38,3 +38,7 @@ header {
   border: 5px solid #7F7F7F;
 
 }
+
+footer {
+  float: right;
+}
