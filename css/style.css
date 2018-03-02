@@ -46,6 +46,10 @@ h2 {
   color: #555;
 }
 
+#about p a {
+  color: #1783bb;
+}
+
 #press {
 
 }
@@ -61,4 +65,3 @@ footer {
   font-size: 75%;
   color: #7F7F7F;
 }
- 
