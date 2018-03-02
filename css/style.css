@@ -34,12 +34,7 @@ h1 a {
 }
 
 header img {
-
-}
-
-header {
-  border-bottom: 1px solid #ccc;
-  margin-bottom: 5px;
+  margin: auto;
 }
 
 #press img {
