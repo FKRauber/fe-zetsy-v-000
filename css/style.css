@@ -21,11 +21,19 @@ body {
 }
 
 /* Write all remaining styles here */
+.logo {
+  border-bottom: 1px solid #ccc;
+}
+
 h1 a {
   font-size: 3em;
   font-family: 'Baskerville', serif;
   text-decoration: none;
   color: #7F7F7F;
+}
+
+header img {
+
 }
 
 header {
