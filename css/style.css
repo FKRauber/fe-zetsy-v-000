@@ -25,7 +25,7 @@ h1 a {
   font-size: 3em;
   font-family: 'Baskerville', serif;
   text-decoration: none;
-  color:
+  color: #7F7F7F;
 }
 
 header {
@@ -35,5 +35,5 @@ header {
 #press img {
   padding: 1px;
   border: 5px solid #7F7F7F;
-  
+
 }
