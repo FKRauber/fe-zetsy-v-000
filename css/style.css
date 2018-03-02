@@ -25,8 +25,13 @@ h1 a {
   font-size: 3em;
   font-family: 'Baskerville', serif;
   text-decoration: none;
+  color: 
 }
 
 header {
   border-bottom: 1px solid #ccc;
+}
+
+#press img {
+  border: 5px solid #7F7F7F;
 }
