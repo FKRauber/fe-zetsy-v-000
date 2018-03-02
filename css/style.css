@@ -22,7 +22,7 @@ body {
 
 /* Write all remaining styles here */
 .logo {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #98ADA6;
   margin-bottom: 5px;
 }
 
@@ -30,7 +30,7 @@ h1 a {
   font-size: 3em;
   font-family: 'Baskerville', serif;
   text-decoration: none;
-  color: #7F7F7F;
+  color: #98ADA6;
 }
 
 header img {
